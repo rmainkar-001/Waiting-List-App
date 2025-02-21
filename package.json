@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "homepage": "https://rmainkar-001.github.io/Waiting-List-App/",
-
   "dependencies": {
     "@reduxjs/toolkit": "^2.5.1",
     "@testing-library/dom": "^10.4.0",
